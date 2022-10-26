@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int extNum, sumDigit = 1, numEntero;
+    int extNum, sumDigit = 1 ;
     
-    while(numEntero != 0) {
+    while(sumDigit != 0) {
         sumDigit += sumDigit;
     }
     cout << "La suma de los digitos es: " << sumDigit << endl;
