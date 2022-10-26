@@ -8,6 +8,7 @@ int main() {
         sumDigit += 1;
         cout << "Eres pendjo este numero de veces -> " << sumDigit << endl;
         //Solo agregre un comentario alv
+        //Otro comentario
     }
     return 0;
 }
