@@ -7,6 +7,7 @@ int main() {
     while(aux = 1) {
         sumDigit += 1;
         cout << "Eres pendjo este numero de veces -> " << sumDigit << endl;
+        //Solo agregre un comentario alv
     }
     return 0;
 }
