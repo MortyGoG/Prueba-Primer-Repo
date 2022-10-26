@@ -1,11 +1,12 @@
 #include <iostream>
 using namespace std;
+
 int main() {
-    int extNum, sumDigit = 1 ;
+    int extNum, sumDigit = 0, aux=1;
     
-    while(sumDigit != 0) {
-        sumDigit += sumDigit;
+    while(aux = 1) {
+        sumDigit += 1;
+        cout << "Eres pendjo este numero de veces -> " << sumDigit << endl;
     }
-    cout << "La suma de los digitos es: " << sumDigit << endl;
     return 0;
 }
